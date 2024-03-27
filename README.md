@@ -1,4 +1,4 @@
-Deployed Version: [here](https://flappybird-harsh.netlify.app/)
+Deployed Version: [Link](https://flappybird-harsh.netlify.app/)
 
 # Folder structure
 
